@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="title_activity_horarios">HorariosActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
